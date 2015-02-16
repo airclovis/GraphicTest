@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GraphicTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="poids">Poids :</string>
+    <string name="taille">Taille :</string>
+    <string name="metre">Mètre</string>
+    <string name="centimetre">Centimètre</string>
+	<string name="fonction">Méga Fonction</string>
+	<string name="calculer">Calculer l\'IMC</string>
+	<string name="raz">RAZ</string>
+	<string name="result">Résultat : </string>
+	<string name="imcResult">Vous devez cliquer sur le bouton \"Calculer l\'IMC\" pour obtenir un
+	    resultat</string>
+</resources>

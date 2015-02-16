@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-29895bf353e2d9f1c0ebed468a8723dd4c2bd2b2.jar"
+        jar="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\pre-dexed\debug\classes-c14edc458f7bd4c608f4ab5d669f26d32a508879.jar"
+        jar="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\pre-dexed\debug\classes-eaef4823a42f8bf05fd56e262c72d4230583c98c.jar"
+        jar="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="C:\Users\airclovis\AndroidStudioProjects\GraphicTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-ba616bae32a46715dece0f4005513e21acaf5010.jar"
+        jar="C:\Program Files\android-studio\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+
+</pre-dex-items>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" 
+  android:orientation="vertical">
+
+    <TextView 
+        android:text="@string/poids"
+        android:textColor="#FF0000"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    
+    <EditText 
+        android:id="@+id/poids"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"/>
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/taille"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#FF0000"/>
+    
+    <EditText 
+        android:id="@+id/taille"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"/>
+    
+    <RadioGroup 
+        android:id="@+id/group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioButton 
+            android:id="@+id/radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/metre"/>
+
+        <RadioButton 
+            android:id="@+id/radio2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/centimetre"/>
+    </RadioGroup>
+    
+    <CheckBox 
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="@string/fonction"/>
+    
+    <Button 
+        android:id="@+id/calculer"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="@string/calculer"/>
+    
+    <Button 
+        android:id="@+id/raz"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/raz"/>
+  
+  <TextView 
+      android:layout_height="wrap_content"
+      android:layout_width="wrap_content"
+      android:text="@string/result"/>
+  
+  <TextView 
+      android:id="@+id/imcResult"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/imcResult"/>
+ 
+</LinearLayout>
+<!-- From: file:/C:/Users/airclovis/AndroidStudioProjects/GraphicTest/app/src/main/res/layout/activity_main.xml -->
